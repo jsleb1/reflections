@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Git init command creates a .git directory inside of the current directory.  It has to be created so that commits can be created.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+it is a middleground for files before the commit takes place.  It allows the user to only enter files that are necessary for the current commit.
