@@ -1,0 +1,4 @@
+Viewing a diff between two versions of a file
+helped to separate out matching code from non-matching
+code.  From there is was a lot easier to sift through 
+the different code in order to find the typo.

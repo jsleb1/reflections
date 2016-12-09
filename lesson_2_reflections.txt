@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git init command creates a .git directory inside of the current directory.  It has to be created so that commits can be created.
